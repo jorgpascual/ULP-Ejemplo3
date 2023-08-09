@@ -17,10 +17,12 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
- 
+
+    }
 
     public double cadena(String palabra) {
         double res = Math.pow(palabra.length(), 3);
         return res;
     }
+
 }
