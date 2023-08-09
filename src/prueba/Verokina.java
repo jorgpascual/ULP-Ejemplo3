@@ -11,4 +11,6 @@ package prueba;
  */
 public class Verokina {
     
+    private int x;
+    
 }
